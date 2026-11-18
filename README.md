@@ -1,7 +1,7 @@
 # 🧭 To Be a Senior Product Owner
 ### The Business Analysis → Product Ownership Roadmap (Zero to Senior)
 
-> **من الصفر لحد ما تبقى Senior Product Owner** — a practical, project-based roadmap for anyone starting the Business Analysis track, built around real deliverables (BRD, SRS, User Stories, BPMN flows, Backlogs, Roadmaps), not just videos.
+> **To be a Senior Product Owner** — a practical, project-based roadmap for anyone starting the Business Analysis track, built around real deliverables (BRD, SRS, User Stories, BPMN flows, Backlogs, Roadmaps), not just videos and that my personal journey i wish i had truly help you.
 
 ![Levels](https://img.shields.io/badge/Levels-6-blue) ![Projects](https://img.shields.io/badge/Practice%20Projects-5-green) ![Duration](https://img.shields.io/badge/Duration-~6%20months-orange) ![Language](https://img.shields.io/badge/Content-English%20%2B%20Arabic-red)
 
