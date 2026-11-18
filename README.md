@@ -738,7 +738,7 @@ Copy this into your fork's README and tick the boxes as you go:
 
 ## 🤝 Contributing
 
-Contributions are very welcome, especially **Egyptian / Arabic content**:
+Contributions are very welcome:
 
 1. Fork the repo and create a branch: `add/<resource-name>`.
 2. Add your resource in the right section with: **title · link · language · level · one-line why**.
@@ -751,9 +751,9 @@ Contributions are very welcome, especially **Egyptian / Arabic content**:
 
 <div align="center">
 
-**Built with ❤️ for every Egyptian starting the Business Analysis journey.**
+**Built with ❤️ for every Friend starting the Business Analysis journey.**
 *"A good BA doesn't write documents. A good BA creates shared understanding."*
 
-⭐ If this roadmap helped you, star the repo and share it with someone starting out.
+⭐ I wish i had truly help you.
 
 </div>
